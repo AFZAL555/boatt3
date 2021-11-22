@@ -169,7 +169,7 @@ p {
 
 .display{
     width: 100%;
-    background: url('notify-me-banner_2000X1000.png') no-repeat center center/cover;
+    background: url('images/notify-me-banner_2000X1000.png') no-repeat center center/cover;
     display: flex;
     height: 600px;
     flex-direction:column;
